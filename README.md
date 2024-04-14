@@ -15,3 +15,4 @@ Python app that interacts with a PostgreSQL database (with a HealthAndFitnessMan
 5. Run the application by doing (python .\HealthAndFitnessClub.py) once your terminal is open in the COMP3005-Final-Project directory and follow the prompts to perform the appropriate action 
 
 ## Video URL
+https://www.loom.com/share/1f6fcc113f6048bc8d2faf0d4b111cae
